@@ -1,0 +1,42 @@
+.home {
+  background: url(/images/burgerHome.jpg) no-repeat center center fixed;
+  background-size: cover;
+  text-shadow: 2px 2px 8px #000000;
+  height: 100vh;
+  text-align: center;
+  color: white;
+  padding-top: 33vh;
+  font-family: 'Montserrat', sans-serif;
+  text-shadow: 2px 2px 8px #000000;
+}
+
+.bigTitle {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 55px;
+}
+
+.baseLine {
+  font-size: 25px;
+}
+
+.section-1{
+  background-color: #240B36;
+  height: 100vh;
+  color: #F2DC5D;
+  font-family: 'Poppins', sans-serif;
+  padding-top:33vh
+}
+
+.burgerList {
+  background-color: #240B36;
+  color: #F2DC5D;
+  font-family: 'Poppins', sans-serif;
+  min-height: 100vh;
+  padding-top: 33vh;
+}
+
+
+.card {
+  margin-bottom: 40px;
+}
